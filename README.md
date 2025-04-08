@@ -6,7 +6,7 @@ This project uses **React**, **Redux toolkit** and **Tailwind css** for the fron
 
 ## Installation
 
-To get started with Shopco locally, follow these steps:
+To get started with Pizza Shop locally, follow these steps:
 
 1. **Clone the repository:**
 
