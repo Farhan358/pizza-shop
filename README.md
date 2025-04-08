@@ -1,8 +1,8 @@
-#Pizza Shop
+# Pizza Shop
 
-This project uses %%React%%, %%Redux toolkit%% and %%tailwind css%% for the frontend application.
+This project uses **React**, **Redux toolkit** and **Tailwind css** for the frontend application.
 
-##[Project URL](https://pizza-shop-rust.vercel.app/)
+## [Project URL](https://pizza-shop-rust.vercel.app/)
 
 ## Installation
 
